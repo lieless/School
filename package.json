@@ -1,0 +1,28 @@
+{
+  "name": "School",
+  "version": "1.0.0",
+  "description": "n",
+  "main": "app.js",
+  "dependencies": {
+    "anime-images-api": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lieless/School.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lieless/School/issues"
+  },
+  "homepage": "https://github.com/lieless/School#readme"
+}
